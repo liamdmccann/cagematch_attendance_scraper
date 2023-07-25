@@ -17,3 +17,6 @@ This script
 - builds a dictionary from each URL in relevant YAML file
 - extracts relevant show info (name, attendance, venue, show name) into a dictionary
 - writes show dictionaries out to CSV for processing
+
+Using the Korakuen Hall shows.yaml and Korakuen_showlist demonstrates the scripts functionality when there are attendance values for every entry in the YAML. 
+Using new Korakuen show list demonstrates script breaking when there are attendance values missing.
